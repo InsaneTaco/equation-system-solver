@@ -38,7 +38,7 @@ try:
         x = round(x, 3)
         y = round(y, 3)
 
-        #prints solution again
+        #prints solution
         print(f"""
     ({x}, {y})
     """)
